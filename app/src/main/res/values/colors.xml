@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="coklat">#211717</color>
+    <color name="coklatMuda">#FFEAA5</color>
+    <color name="putihCerah">#ffebd3</color>
+    <color name="hijauKebiruan">#226b80</color>
+</resources>
